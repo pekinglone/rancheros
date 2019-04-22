@@ -1,0 +1,4 @@
+rancher:
+  network:
+    dns: 
+      nameserver: 211.138.30.66
